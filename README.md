@@ -1,5 +1,5 @@
-Web Developer|| 
-HTML,CSS, Javascript 
+Software Developer|| 
+HTML,CSS, Javascript,Python
 
 📫 How to reach me : genenvm@gmail.com
 
@@ -8,7 +8,7 @@ SimplyGene/SimplyGene is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # 💫 About Me:
-I'm currently learning web development<br>I'm looking forward to collaborate on front-end projects
+I'm currently learning and building projects <br>I'm looking forward to collaborate on both backend and frontend projects
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/EugeneCheruiyot) 
