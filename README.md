@@ -1,6 +1,6 @@
 SOFTWARE DEVELOPER
 # 💫 About Me:
-🔭 I’m currently working on: Developing comprehensive software solutions that revolutionize industries and positively impact the society.<br><br>👯 I’m looking to collaborate on: Both frontend and backend opensource and team projects<br><br>🤝 I’m looking to help with: Optimizing backend performance and scaling the application to handle large datasets efficiently.<br><br>🌱 I’m currently learning: Python frameworks like Flask for backend development and exploring microservices architecture for backend scalability.<br><br>💬 Ask me about: Software development methodologies, project planning strategies and effective team collaboration tools.<br><br>⚡ Fun fact: I enjoy exploring new technologies and visiting new restaurants during weekends!
+I’m currently working on: Developing comprehensive software solutions that revolutionize industries and positively impact the society.<br><br>’m looking to collaborate on: Both frontend and backend opensource and team projects<br><br>I’m looking to help with: Optimizing backend performance and scaling the application to handle large datasets efficiently.<br><br>I’m currently learning: Python frameworks like Flask for backend development and exploring microservices architecture for backend scalability.<br><br>Ask me about: Software development methodologies, project planning strategies and effective team collaboration tools.<br><br>⚡ Fun fact: I enjoy exploring new technologies and visiting new restaurants during weekends!
 
 
 ## 🌐 Socials:
